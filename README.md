@@ -8,7 +8,7 @@ React Text Utils is a web application built with React that offers a set of text
 
 <p align="center">
     👨‍💻 Website link:
-    <a href="https://textutilllll.netlify.app/"> TextUtil </a>
+    <a href="https://textutilll.netlify.app/"> TextUtil </a>
 </p>
 
 <p align="center">
