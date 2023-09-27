@@ -14,6 +14,7 @@ React Text Utils is a web application built with React that offers a set of text
 <p align="center">
     Type something and manipulate
 </p>
+
 # Installation
 
 To install the application, follow these steps:  
