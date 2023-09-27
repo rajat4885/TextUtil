@@ -5,18 +5,18 @@ React Text Utils is a web application built with React that offers a set of text
 # Installation
 
 To install the application, follow these steps:  
-Clone the repository: git clone [https://github.com/rajat4885/TextUtil]
+Clone the repository: git clone [https://github.com/rajat4885/TextUtil]<br>
 Install dependencies: npm install  
 Run the application: npm start
 
 # Features
 
 React Text Utils offers a variety of features for text manipulation, including:  
-Text Conversion to uppercase
-Text Conversion to lowercase
-Character count
-Word Count
-Dark Mode
+Text Conversion to uppercase <br>
+Text Conversion to lowercase<br>
+Character count<br>
+Word Count<br>
+Dark Mode<br>
 
 # Usage
 To use React Text Utils, simply enter the text you wish to manipulate into the input field, select the desired tool, and click the tools button. The result will be displayed in the output field below.
