@@ -2,6 +2,16 @@
 
 React Text Utils is a web application built with React that offers a set of text manipulation tools. The application providestext utilities such as text case conversion to UPPERCASE and lowercase,Dark Mode theme,Word Count,Character Count. The website is designed with a clean and user-friendly interface to provide a seamless experience for users.This website was basically build by me for learning how to create a dark mode and how to use react routers propery.
 
+# Preview
+
+<p align="center">
+    👨‍💻 Website link:
+    <a href="https://textutilllll.netlify.app/"> TextUtil </a>
+</p>
+
+<p align="center">
+    Type text and choose the action
+</p>
 # Installation
 
 To install the application, follow these steps:  
